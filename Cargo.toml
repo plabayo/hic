@@ -1,0 +1,15 @@
+[package]
+name = "hic"
+version = "0.0.0"
+authors = ["Glen De Cauwsemaecker (@glendc)"]
+edition = "2021"
+description = "The Holestic IDE Companion (hic) allows you to run vscode tasks and debug launchers from the CLI"
+readme = "README.md"
+homepage = "https://github.com/plabayo/hic"
+repository = "https://github.com/plabayo/hic"
+license = "MIT"
+license-file = "LICENSE"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
